@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.DS_Store
+.idea/
+taotaocommen/src/
+taotaocommen/target/
+taotaomanager/.DS_Store
+taotaomanager/src/
+taotaomanager/taotaomanagermapper/src/
+taotaomanager/taotaomanagermapper/target/
+taotaomanager/taotaomanagerpojo/src/
+taotaomanager/taotaomanagerpojo/target/
+taotaomanager/taotaomanagerservice/src/
+taotaomanager/taotaomanagerservice/target/
+taotaomanager/taotaomanagerweb/src/main/java/
+taotaomanager/taotaomanagerweb/src/main/resources/
+taotaomanager/taotaomanagerweb/src/test/
+taotaomanager/taotaomanagerweb/target/
+taotaoparent/.DS_Store
+taotaoparent/src/
